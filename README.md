@@ -1,1 +1,1 @@
-# stock-cnn
+# stock-CNN
